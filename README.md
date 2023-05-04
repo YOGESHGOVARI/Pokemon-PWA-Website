@@ -23,3 +23,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 
+![image](https://user-images.githubusercontent.com/73241374/236258152-c3ae1c76-c868-4099-9142-0ff0cf1b8ed4.png)
+
+![image](https://user-images.githubusercontent.com/73241374/236258276-46971744-8f53-4723-afc2-93ee4cc23502.png)
